@@ -1,0 +1,6 @@
+target,lead,nct_id,status,phase,sponsor,conditions,enrollment,start,primary_completion,url
+ENPP1,ISM5939 (InSilico),NCT06724042,NOT_YET_RECRUITING,PHASE1,InSilico Medicine Hong Kong Limited,Advanced Solid Tumor; Metastatic Solid Tumor; Advanced and/or Metastatic Solid Tumors,159,2026-06-30,2029-06-30,https://clinicaltrials.gov/study/NCT06724042
+NLRP3,ISM8969 (InSilico),NCT07581431,RECRUITING,PHASE1,InSilico Medicine Hong Kong Limited,Healthy Subjects (HS); Obese Adult Participants at Risk of Cardiovascular Disease,100,2026-06-15,2027-01-29,https://clinicaltrials.gov/study/NCT07581431
+TYK2,"deucravacitinib (BMS, approved)",NCT03624127,COMPLETED,PHASE3,Bristol-Myers Squibb,Psoriasis,666,2018-08-07,2020-09-02,https://clinicaltrials.gov/study/NCT03624127
+IRAK4,emavusertib/CA-4948 (Curis),NCT03328078,RECRUITING,PHASE1/PHASE2,"Curis, Inc.",Relapsed Hematologic Malignancy; Refractory Hematologic Malignancy; Relapsed Primary Central Nervous System Lymphoma; Refractory Primary Central Nervous System Lymphoma,152,2017-12-28,2026-08,https://clinicaltrials.gov/study/NCT03328078
+IRAK4,emavusertib/CA-4948 (Curis),NCT04278768,SUSPENDED,PHASE1/PHASE2,"Curis, Inc.",Acute Myelogenous Leukemia; Myelodysplastic Syndrome,366,2020-07-06,2026-04-01,https://clinicaltrials.gov/study/NCT04278768

@@ -1,0 +1,13 @@
+# OS / editor
+.DS_Store
+__MACOSX/
+*.swp
+Thumbs.db
+
+# Kaggle dataset descriptor (not part of the GitHub repo)
+dataset-metadata.json
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
